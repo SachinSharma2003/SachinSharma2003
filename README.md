@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Ftech-cartoon&psig=AOvVaw3wOdEyMi_IDkv-KhQmSvaE&ust=1734530669816000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiYiu38rooDFQAAAAAdAAAAABAE" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsharma2003" /> </p>
 
 - 🌱 I’m currently learning **Front-End Development**
