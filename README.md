@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 - 🌱 I’m currently learning **Front-End Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachin-sharma-a-419b66259/](https://www.linkedin.com/in/sachin-sharma-a-419b66259/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **sharmasachin281003@gmail.com**
 <hr>
